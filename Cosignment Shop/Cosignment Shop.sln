@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cosignment Shop UI", "Cosignment Shop UI\Cosignment Shop UI.csproj", "{87FFEA65-725D-4455-8C6E-E9967F96D1F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsignmentShopLibrary", "ConsignmentShopLibrary\ConsignmentShopLibrary.csproj", "{28CB177A-86C6-41F1-9843-F2A00D51FEB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87FFEA65-725D-4455-8C6E-E9967F96D1F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87FFEA65-725D-4455-8C6E-E9967F96D1F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87FFEA65-725D-4455-8C6E-E9967F96D1F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87FFEA65-725D-4455-8C6E-E9967F96D1F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28CB177A-86C6-41F1-9843-F2A00D51FEB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28CB177A-86C6-41F1-9843-F2A00D51FEB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28CB177A-86C6-41F1-9843-F2A00D51FEB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28CB177A-86C6-41F1-9843-F2A00D51FEB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

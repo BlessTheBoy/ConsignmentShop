@@ -1,0 +1,11 @@
+C:\Users\Hp\Documents\Programming\c#\Cosignment Shop\Cosignment Shop UI\bin\Debug\Cosignment Shop UI.exe.config
+C:\Users\Hp\Documents\Programming\c#\Cosignment Shop\Cosignment Shop UI\bin\Debug\Cosignment Shop UI.exe
+C:\Users\Hp\Documents\Programming\c#\Cosignment Shop\Cosignment Shop UI\bin\Debug\Cosignment Shop UI.pdb
+C:\Users\Hp\Documents\Programming\c#\Cosignment Shop\Cosignment Shop UI\obj\Debug\Cosignment Shop UI.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Documents\Programming\c#\Cosignment Shop\Cosignment Shop UI\obj\Debug\Cosignment_Shop_UI.ConsignmentShop.resources
+C:\Users\Hp\Documents\Programming\c#\Cosignment Shop\Cosignment Shop UI\obj\Debug\Cosignment_Shop_UI.Properties.Resources.resources
+C:\Users\Hp\Documents\Programming\c#\Cosignment Shop\Cosignment Shop UI\obj\Debug\Cosignment Shop UI.csproj.GenerateResource.Cache
+C:\Users\Hp\Documents\Programming\c#\Cosignment Shop\Cosignment Shop UI\obj\Debug\Cosignment Shop UI.exe
+C:\Users\Hp\Documents\Programming\c#\Cosignment Shop\Cosignment Shop UI\obj\Debug\Cosignment Shop UI.pdb
+C:\Users\Hp\Documents\Programming\c#\Cosignment Shop\Cosignment Shop UI\bin\Debug\ConsignmentShopLibrary.dll
+C:\Users\Hp\Documents\Programming\c#\Cosignment Shop\Cosignment Shop UI\bin\Debug\ConsignmentShopLibrary.pdb
